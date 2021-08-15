@@ -2,12 +2,12 @@
 
 ## 챌린지
 
-- [x ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+- [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 - [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
 - [ ] SNS 인증샷 챌린지
 - [ ] 웹 애플리케이션 챌린지
 - [ ] GitHub 저장소 챌린지
-- [ ] 블로그 후기 챌린지
+- [x] 블로그 후기 챌린지
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 
@@ -27,7 +27,7 @@
 | GitHub ID                                            | 스크린샷 링크                                                                                             |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [@est22](https://github.com/est22)                   | _링크를 남겨주세요_                                                                                       |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://github.com/yoonminsohappy/corona-map/blob/master/public/images/%EC%B1%8C%EB%A6%B0%EC%A7%802.png" |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) |  |
 
 ## SNS 인증샷 챌린지
 
@@ -35,8 +35,8 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID                                            | 포스트 링크                                                           |
 | ---------------------------------------------------- | --------------------------------------------------------------------- |
-| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_                                                   |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://www.facebook.com/100062005290195/posts/219766840100158/?d=n" |
+| [@est22](https://github.com/est22)                   | "https://twitter.com/est22131/status/1426351607067807746"                                                   |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_  |
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지
 
@@ -44,8 +44,8 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | _애저 정적 웹 앱 URL을 남겨주세요_ |
-| 깃헙 리포지토리 | _깃헙 리포지토리 URL을 남겨주세요_ |
+| 애저 정적 웹 앱 | "https://thankful-rock-07ed1dc10.azurestaticapps.net" |
+| 깃헙 리포지토리 | "https://github.com/est22/CoronaMap"|
 
 ## 블로그 후기 챌린지
 
@@ -53,5 +53,5 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID                                            | 포스트 링크         |
 | ---------------------------------------------------- | ------------------- |
-| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_ |
+| [@est22](https://github.com/est22)                   | "https://wildguess.tistory.com/245" |
 | [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_ |
